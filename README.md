@@ -1,3 +1,3 @@
 # hello-world
 My space
-Jusworking out how this thing works
+Just working out how this thing works
